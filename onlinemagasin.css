@@ -4,7 +4,7 @@ nav {
     flex-direction: row;
     justify-content: space-around;
     align-content: center;
-    max-height: 10vh;
+    max-height: 100px;
     overflow: hidden;
 
     background-color: darkgray;
